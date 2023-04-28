@@ -1,0 +1,1 @@
+{"prompt": "输入的提示", "completion": "输出的结果"}
